@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uc_18_AddressBookTsql", "Uc_18_AddressBookTsql.csproj", "{0131A777-7383-47DE-9CFE-B62E1F32D61E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest18-34", "UnitTest18-34\UnitTest18-34.csproj", "{87B0F960-0865-4552-B019-BD0DBC1A5C0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0131A777-7383-47DE-9CFE-B62E1F32D61E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0131A777-7383-47DE-9CFE-B62E1F32D61E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0131A777-7383-47DE-9CFE-B62E1F32D61E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0131A777-7383-47DE-9CFE-B62E1F32D61E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87B0F960-0865-4552-B019-BD0DBC1A5C0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87B0F960-0865-4552-B019-BD0DBC1A5C0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87B0F960-0865-4552-B019-BD0DBC1A5C0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87B0F960-0865-4552-B019-BD0DBC1A5C0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17220237-911B-40BD-B14E-F75EC09AAC89}
+	EndGlobalSection
+EndGlobal
